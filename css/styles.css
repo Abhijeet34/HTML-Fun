@@ -1,0 +1,27 @@
+body {
+  background-color: #EAF6F6;
+}
+
+p {
+  text-align: justify;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #82A284;
+  border-width: 5px;
+}
+
+h1, h3 {
+  color: #66BFBF;
+}
+
+.ex1 {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-color: #446A46;
+}
+
+a {
+  text-decoration: none;
+}
